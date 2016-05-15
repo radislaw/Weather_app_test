@@ -1,15 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Provider } from 'react-redux';
-import { createStore, applyMiddleware } from 'redux';
 
-import App from './components/app';
-import reducers from './reducers';
+import SearchBar from './components/search_bar';
+import CurentTime from './components/time';
 
-const createStoreWithMiddleware = applyMiddleware()(createStore);
+const App = () => {
+  return (
+    <div className='card'>
+      <div className='card__top'>
+        <div className='card__intro'>
+          <SearchBar />
+          <CurentTime />
+        </div>
+      </div>
+    </div>
+  );
+}
 
 ReactDOM.render(
-  <Provider store={createStoreWithMiddleware(reducers)}>
-    <App />
-  </Provider>
-  , document.querySelector('.container'));
+    <App />, document.querySelector('.container')
+);
