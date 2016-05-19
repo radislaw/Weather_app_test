@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="256px" viewBox="0 0 200 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M101.5,160.468 C138.17475,160.468 168,130.631666 168,93.968 C168,57.3043334 138.17475,27.468 101.5,27.468 C64.82525,27.468 35,57.29325 35,93.968 C35,130.64275 64.82525,160.468 101.5,160.468 L101.5,160.468 L101.5,160.468 Z M99.9916672,-1.13686838e-13 C44.8462628,-1.13686838e-13 0,42.528 0,96.008 C0,152.008 50.0041663,209.296 86.4594616,249.56 C86.592784,249.72 92.4422968,256 99.6750272,256 L100.31664,256 C107.541038,256 113.398883,249.72 113.532206,249.56 C150.004166,209.296 200,152.016 200,96.008 C200,42.528 155.145405,-1.13686838e-13 99.9916672,-1.13686838e-13 L99.9916672,-1.13686838e-13 Z" id="Combined-Shape"></path>
+            <path d="M102,43 L102,103" id="Line"></path>
+            <path d="M97,98 L132,98" id="Line"></path>
+        </g>
+    </g>
+</svg>
