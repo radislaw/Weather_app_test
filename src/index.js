@@ -2,18 +2,21 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import SearchBar from './components/search_bar';
-import CurentTime from './components/time';
+import CurentLocation from './components/curent_location';
+import Tabs from './components/tabs';
+
+
 
 const App = () => {
   return (
-    <div className='card'>
-      <div className='card__top'>
-        <div className='card__intro'>
+      <div>
+        <div className='jumbotron'>
           <SearchBar />
-          <CurentTime />
+          <CurentLocation />
         </div>
+        <Tabs />
       </div>
-    </div>
+
   );
 }
 
