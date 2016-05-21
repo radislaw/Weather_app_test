@@ -9,7 +9,7 @@ html:before {
   content: '';
   position: absolute;
   background-size: cover;
-  height: 100vh;
+  height: 100%;
   width: 100%;
   background-image: url("../src/images/cater.jpg");
   -webkit-filter: blur(30px);
@@ -52,7 +52,6 @@ background-color: rgba(0, 0, 0, 0.3);
 }
 
 p.clock{
-  text-align: right;
   font-size: 1.5rem;
 }
 
@@ -85,7 +84,9 @@ background-color: transparent;
   border: none;
 }
 
-
+.location_icon{
+  font-size: 6rem;
+}
 
 
 
@@ -132,7 +133,6 @@ background-color: transparent;
 }
 .card__meta {
   width: 100%;
-  text-align: right;
   padding: 0px 0 0 20px;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   font-size: 1.125rem;
