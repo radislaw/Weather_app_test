@@ -10,7 +10,7 @@ import Sun from './week_days_weather/sun';
 export default class WeatherPane extends Component{
   render() {
     return (
-        <div role="tabpanel" classNameName="tab-pane active" id="home">
+        <div role="tabpanel" className="tab-pane active" id="home">
           <div className="panel weather-panel">
             <Mon />
             <Tue />

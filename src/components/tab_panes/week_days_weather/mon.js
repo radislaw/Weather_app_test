@@ -5,7 +5,9 @@ export default class Mon extends Component{
     return (
       <div className="weather-panel__cell weather-panel__cell--main">
         <div className="temp_date">
-          <h2>82<span>°</span></h2>
+          <h2><div>82</div><span>°</span></h2>
+
+
           <date>Monday 27th</date>
         </div>
         <div className="icon_details">
