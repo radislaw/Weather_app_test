@@ -139,16 +139,6 @@ background-color: transparent;
   color: #fff;
 }
 
-.card__meta:before{
-  content: '';
-  background-image: url('../src/images/location.svg');
-  background-repeat: no-repeat;
-  background-size: 100%;
-  width: 40px;
-  height: 50px;
-  display: block;
-  margin-left: 60px;
-
 }
 @media screen and (min-width: 50em) {
   .card__meta {
@@ -540,26 +530,19 @@ input.search {
   font-size: 3em;
 }
 input.search::-webkit-input-placeholder {
-  color: #72A0B7;
+  color: #6895AD;
   opacity: 0.6;
 }
 input.search::-moz-placeholder {
-  color: #FFF;
+  color: #6895AD;
   opacity: 0.6;
 }
 input.search:-ms-input-placeholder {
-  color: #FFF;
+  color: #6895AD;
   opacity: 0.6;
 }
 input.search::placeholder {
-  color: #FFF;
+  color: #6895AD;
   opacity: 0.6;
 }
 
-
-
-
-/*
-#EFB835 weather
-#868EE3 news
-#65B7CA gallery*/
