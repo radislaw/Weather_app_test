@@ -96,7 +96,7 @@ background-color: transparent;
 .card__top {
   border-radius: 12px 12px 0 0;
   width: 100%;
-  background-image: url("../src/images/cater.jpg");
+  background-image: url("");
   background-size: cover;
   overflow: hidden;
 }

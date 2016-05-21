@@ -16,7 +16,7 @@ export default class WeatherPane extends Component{
         </div>
         <div className="icon_details">
           <div className="icon">
-            <i className="wi wi-cloud weather-icon"></i>
+            <i className="wi-glyph-55"></i>
           </div>
           <p>4mph / 67° </p>
         </div>
