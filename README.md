@@ -22,3 +22,4 @@
   > npm install
   > npm start
 ```
+####В адрессной строке браузера наберите http://localhost:8080/#####
