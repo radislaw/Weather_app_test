@@ -1,25 +1,24 @@
-# ReduxSimpleStarter
+# Тестовое задание: WhereToApp
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Исходный макет: https://dribbble.com/shots/1081917-WhereTO-App/attachments/134531
 
-###Getting Started###
+###Инструкции:###
 
-There are two methods for getting started with this repo.
+####Если вы знакомы с Git.####
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Склонируйте репозиторий, установите зависимости и запустите процессы gulp:
 
 ```
-	> npm install
-	> npm start
+  > git clone https://github.com/radislaw/Weather_app_test.git
+  > cd Weather_app_test
+  > npm install
+  > npm start
+```
+
+####Eсли не знакомы с Git.#####
+Нажмите [здесь](https://github.com/radislaw/Weather_app_test/archive/master.zip) - загрузится .zip файл.  Разархивируйте его, затем откройте консоль, перейдите в директорию проекта и выполните следующие команды:
+
+```
+  > npm install
+  > npm start
 ```
